@@ -1,6 +1,3 @@
-/**
-  * Created by Vinicius on 06/11/16.
-  */
 class Rational(n: Int, d: Int) {
   require(d != 0)
 
